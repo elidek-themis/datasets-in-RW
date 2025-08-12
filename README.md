@@ -1,6 +1,6 @@
 # Bias Evaluation Datasets
 
-This document provides details for various datasets used for evaluating bias in language models that are available in the related work. The taxonomy is based on the work of Isabel O Gallegos et al. [“Bias and fairness in large language models: A survey”](https://arxiv.org/abs/2309.00770). In: arXiv preprint arXiv:2309.00770 (2023).
+This document provides details for various datasets used for evaluating bias in language models that are available in the related work. The taxonomy is based on the work of Isabel O Gallegos et al. [“Bias and fairness in large language models: A survey”](https://arxiv.org/abs/2309.00770).
 
 ## Counterfactual Inputs Datasets
 
